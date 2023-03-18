@@ -1,4 +1,10 @@
 # Stable-Diffusion-Collab-Modified
+
+<a target="_blank" href="https://colab.research.google.com/github.com/MEMEZNUT999/Stable-Diffusion-Collab-Modified/blob/main/Stable_Diffusion_WebUi.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
 https://github.com/SlavyanDesu/sd-webui-colab but modified to install hypernetworks too
 
 
